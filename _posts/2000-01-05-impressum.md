@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-bg: '#63BD2F'
+bg: yellow
 color: white
 fa-icon: list
 ---

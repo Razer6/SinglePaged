@@ -27,10 +27,11 @@ google_analytics_key: UA-86528337-1 ## put YOUR key here to enable tracking! (bl
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
+  blue:      'rgba(32, 76, 174, 0.625)'
   green:     '#9bcf2f'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  red:       'rgba(255, 252, 0, 0.625)'
+  yellow:    'rgba(237, 28, 36, 0.625)'
   turquoise: '#0fbfcf'
 
 kramdown:
